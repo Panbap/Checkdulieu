@@ -41,13 +41,13 @@ https://panbap.github.io/Checkdulieu/
 ![Drag and Drop](drag-drop-example.png)
 
 ## 📄 Cấu Trúc Dự Án
-
+```text
 check-duplicate/
 ├── index.html # Giao diện chính
 ├── styles.css # Tệp CSS tuỳ chỉnh
 ├── script.js # Logic xử lý và kiểm tra trùng lặp
 └── README.md # Tệp hướng dẫn sử dụng
-
+```
 
 ## ✅ TODO
 - [ ] Hỗ trợ kiểm tra theo cụm từ/ký tự thay vì dòng.
